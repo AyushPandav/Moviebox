@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "password": "kuchtohhai"
+    },
+    {
+      "id": "4c6a",
+      "name": "Ayu",
+      "email": "ayus",
+      "password": "dkfjls"
+    },
+    {
+      "id": "a5a9",
+      "name": "dkfjlsk",
+      "email": "ksldfjlak@gmail.com",
+      "password": "lsajdfkjd"
+    },
+    {
+      "id": "ac25",
+      "name": "afsda",
+      "email": "safds@gmail.com",
+      "password": "adsfasd"
+    },
+    {
+      "id": "17ec",
+      "name": "dfsd",
+      "email": "sdfsd@gmail.com",
+      "password": "asdfadsfadsf"
+    },
+    {
+      "id": "85a6",
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "hello"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "cbfb",
+      "email": "hello@gmail.com",
+      "movieId": 425274,
+      "title": "Now You See Me: Now You Don't",
+      "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+    },
+    {
+      "id": "2101",
+      "email": "hello@gmail.com",
+      "movieId": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "poster_path": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg"
+    },
+    {
+      "id": "d80c",
+      "email": "hello@gmail.com",
+      "movieId": 1084242,
+      "title": "Zootopia 2",
+      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    },
+    {
+      "id": "fe50",
+      "email": "hello@gmail.com",
+      "movieId": 1512623,
+      "title": "Risqué",
+      "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"
+    },
+    {
+      "id": "a02b",
+      "email": "hello@gmail.com",
+      "movieId": 1439112,
+      "title": "Muzzle: City of Wolves",
+      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg"
+    },
+    {
+      "id": "0a08",
+      "email": "hello@gmail.com",
+      "movieId": 1511417,
+      "title": "Bāhubali: The Epic",
+      "poster_path": "/4sLSorDKKDN944kWngxgQlpdDeg.jpg"
+    },
+    {
+      "id": "2744",
+      "email": "hello@gmail.com",
+      "movieId": 1223601,
+      "title": "Sisu: Road to Revenge",
+      "poster_path": "/jNsttCWZyPtW66MjhUozBzVsRb7.jpg"
+    }
+  ],
+  "profile": {
+    "name": "Amit Kumar"
+  }
+}
